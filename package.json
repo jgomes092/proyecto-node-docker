@@ -1,0 +1,12 @@
+{
+  "name": "proyecto-node-docker",
+  "version": "1.0.0",
+  "description": "Proyecto Node.js con Docker",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
